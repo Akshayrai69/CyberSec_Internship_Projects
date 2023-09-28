@@ -1,0 +1,23 @@
+Project Title: "CyberScan & Exploit Toolkit" 🌐🔐
+
+Welcome to our CyberScan & Exploit Toolkit repository, where we've assembled a comprehensive set of tools and procedures for scanning open ports and launching targeted attacks. Here's a breakdown of the key tasks within this cybersecurity project:
+
+Task 1 - 🏴‍☠️ Metasploit Login & IP Extraction
+
+Begin your journey by accessing Metasploit and extracting target IP addresses. This initial phase is crucial as it forms the foundation for our subsequent actions. We'll guide you through the login process and how to gather IP addresses for potential exploitation. 🌐🔓
+
+Task 2 - 📡 Nmap Scanning for Open Ports & Version Details
+
+In Task 2, we dive into the world of network reconnaissance using Nmap. Execute the command "nmap -sV 192.168.50.66" to scan the target IP address. We'll teach you how to interpret the results, extracting information about open ports and their respective version details. This step is vital for identifying potential vulnerabilities. 🚀📂
+
+Task 3 - 🔍 Vulnerability Assessment & Exploitation
+
+Task 3 involves conducting a thorough assessment of potential vulnerabilities in the identified versions. We'll demonstrate how to leverage Rapid7's resources to check for exploitable vulnerabilities. Then, we'll move on to the exciting part - launching targeted attacks on specific ports:
+
+   - Port a) Telnet (📞)
+   - Port b) FTP (📂)
+   - Port c) SSH (🔑)
+
+We provide detailed procedures for each exploitation, ensuring you understand the entire process. This project equips you with valuable cybersecurity skills, allowing you to explore, secure, and defend against potential threats effectively. 🛡️🌐🔒
+
+Join us in this immersive journey into the world of ethical hacking and cybersecurity, where knowledge is your most powerful weapon. 🌐🛠️
